@@ -1,0 +1,29 @@
+{
+  "providerName": "Acme Productions",
+  "lastUpdated": "2015-11-11T22:21:37+00:00",
+  "language": "en",
+  "movies": [
+    {
+      "id": "1",
+      "title": "Sonic the Hedgehog",
+      "content": {
+        "dateAdded": "2019-11-11T22:21:37+00:00",
+        "videos": [
+          {
+            "url": "https://9l7l1w.gounlimited.to/tea5v54m3t2qzxffforiritz6ne2rmoak2vco7wsrdickpkrzj7rzhqbsp5q/v.mp4",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4740,
+        "captions": [],
+        "language": "en"
+      },
+      "genres": ["comedy"],
+      "releaseDate": "2016-01-01",
+      "shortDescription": "Incredible movie description",
+      "longDescription": "Even more incredible and longer movie description",
+      "thumbnail": "https://tecnoticias.net/wp-content/uploads/2019/12/sonicmovie2.png"
+    }
+  ]
+}
